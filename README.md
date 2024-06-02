@@ -21,7 +21,7 @@ Some of the requirements might be -
 
 Gather five helpful insights for each department's requirements. 
 
-Keep in mind that the company's breakeven is one year so they can’t bear high customer acquisition costs.
+
 
 
  
